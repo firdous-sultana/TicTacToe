@@ -7,4 +7,4 @@
 - [ ] 1- Player Tic Tac Toe game
 
 #### Present version of the app:
-![ticTacToe](https://user-images.githubusercontent.com/52827017/92329901-37c38380-f088-11ea-81bd-b13bcc6beae9.jpeg)
+![ttt](https://user-images.githubusercontent.com/52827017/92330229-e9fc4a80-f08a-11ea-8dd3-5d8c715fb2ba.png)
