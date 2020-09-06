@@ -4,7 +4,7 @@
 * Making the Game between Computer and Human Player, with the computer finding the optimal move using *Min Max Algorithm*
 
 - [ ] 2- Player Tic Tac Toe game
-- [X] 1- Player Tic Tac Toe game
+- [x] 1- Player Tic Tac Toe game
 
 #### Present version of the app:
 ![ticTacToe](https://user-images.githubusercontent.com/52827017/92329901-37c38380-f088-11ea-81bd-b13bcc6beae9.jpeg)
